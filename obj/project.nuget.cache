@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "nyEoin/aO9BFnf0YYGn7UHF22Eu2Fo8SdPNxyScRFT/q5Il4hd2myghDNTbaEiTh/gOnHYwMdEgIg1BGRUzM7g==",
+  "dgSpecHash": "BjYn+E0UowguW6UG0tIv0TBLJor76Wkfsxl9Hpym3sWQdC8M/0/TK4V1LEQ5shUCda//OS+dL2qCWTPjdC8M7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel Pinto\\source\\repos\\platzi\\projectEF\\projectEF.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Daniel Pinto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
+    "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.3\\microsoft.entityframeworkcore.design.6.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.3\\microsoft.entityframeworkcore.inmemory.6.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.3\\microsoft.entityframeworkcore.relational.6.0.3.nupkg.sha512",
     "C:\\Users\\Daniel Pinto\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.3\\microsoft.entityframeworkcore.sqlserver.6.0.3.nupkg.sha512",
