@@ -5,13 +5,13 @@ namespace projectEF.Models
 {
     public class Task
     {
-        [Key]
+        //[Key]
         public Guid TareaId { get; set; }
-        [ForeignKey("CategoryId")]
+        //[ForeignKey("CategoryId")]
         public Guid CategoryId { get; set; }
-        [Required]
-        [MaxLength(200)]
-        public string Titulo { get; set; }
+        //[Required]
+        //[MaxLength(200)]
+        public string Title { get; set; }
         public string Description { get; set; }
         public Priority PriorityTask { get; set; }
         public DateTime CreationDate { get; set; }
