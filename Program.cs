@@ -4,7 +4,8 @@ using projectEF.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<TaskContext>(p => p.UseInMemoryDatabase("TasksDB"));
+//builder.Services.AddDbContext<TaskContext>(p => p.UseInMemoryDatabase("TasksDB"));
+builder.Services.AddSqlServer<TaskContext>(builder.Configuration.GetConnectionString("cnTasks"));
 
 var app = builder.Build();
 
