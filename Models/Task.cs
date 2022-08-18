@@ -16,7 +16,7 @@ namespace projectEF.Models
         public Priority PriorityTask { get; set; }
         public DateTime CreationDate { get; set; }
         public virtual Category Category { get; set; }
-        [NotMapped]
+        //[NotMapped]
         public string Resumen { get; set; }
     }
 }
