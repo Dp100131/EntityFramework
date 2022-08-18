@@ -6,7 +6,7 @@ namespace projectEF.Models
     public class Task
     {
         //[Key]
-        public Guid TareaId { get; set; }
+        public Guid TaskId { get; set; }
         //[ForeignKey("CategoryId")]
         public Guid CategoryId { get; set; }
         //[Required]
